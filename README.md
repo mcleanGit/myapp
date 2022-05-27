@@ -67,7 +67,7 @@ The following items are submitted for review:
 * The URL of the functional, deployed application.
 https://mcleangit.github.io/myapp/
 
-Screenshots:
+* Screenshots:
 ![](src/assets/McLeanPortfolio-About.png)
 ![](src/assets/McLeanPortfolio-Projects1-2.png)
 ![](src/assets/McLeanPortfolio-Projects3-4.png)
