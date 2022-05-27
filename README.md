@@ -76,7 +76,7 @@ Screenshots:
 
 * The URL of the GitHub repository, "with a unique name and a README that describes the project".
 https://github.com/mcleanGit/myapp
-Note: the far-too-generic 'myapp' repo name was retained after several techical overwrites obliterated my original repo with the deployed build! (Got technical assistance to fix the problem.) Unfortunately, a significant commit history was lost as a result!
+*Note:* the far-too-generic 'myapp' repo name was retained after several techical overwrites obliterated my original repo with the deployed build! (Got technical assistance to fix the problem.) Unfortunately, a significant commit history was lost as a result!
 
 
 - - -
