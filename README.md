@@ -68,11 +68,11 @@ The following items are submitted for review:
 https://mcleangit.github.io/myapp/
 
 Screenshots:
-![](../../../McLeanPortfolio-About.png)
-![](../../../McLeanPortfolio-Projects1-2.png)
-![](../../../McLeanPortfolio-Projects3-4.png)
-![](../../../McLeanPortfolio-Projects5-6.png)
-![](../../../McLeanPortfolio-Resume.png)
+![](src/assets/McLeanPortfolio-About.png)
+![](src/assets/McLeanPortfolio-Projects1-2.png)
+![](src/assets/McLeanPortfolio-Projects3-4.png)
+![](src/assets/McLeanPortfolio-Projects5-6.png)
+![](src/assets/McLeanPortfolio-Resume.png)
 
 * The URL of the GitHub repository, "with a unique name and a README that describes the project".
 https://github.com/mcleanGit/myapp
