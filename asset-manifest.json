@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myapp/static/css/main.c6611a5f.css",
+    "main.js": "/myapp/static/js/main.091d7bfc.js",
+    "static/media/Regex-phonenumbers.jpg": "/myapp/static/media/Regex-phonenumbers.af45dcb8b30a0764406e.jpg",
+    "static/media/aCHORDingly.jpg": "/myapp/static/media/aCHORDingly.bdb1e4cd11729e88e4c8.jpg",
+    "static/media/PickUpSports.jpg": "/myapp/static/media/PickUpSports.c3572bde8826605bdc8d.jpg",
+    "static/media/mclean.jpg": "/myapp/static/media/mclean.fc65bbcf7ac986c4e3ea.jpg",
+    "static/media/frequency-hero.jpg": "/myapp/static/media/frequency-hero.7f90647ac430abd1237f.jpg",
+    "static/media/NoteTaker.jpg": "/myapp/static/media/NoteTaker.ae7ea2b9c18e8c35dda7.jpg",
+    "static/media/Scheduler.jpg": "/myapp/static/media/Scheduler.6cdfbd4f59fb94268948.jpg",
+    "static/media/SecGen-.jpg": "/myapp/static/media/SecGen-.e2331647b2f77e3026ee.jpg",
+    "static/media/Calculator.jpg": "/myapp/static/media/Calculator.804844a1640a08afa9d1.jpg",
+    "index.html": "/myapp/index.html",
+    "main.c6611a5f.css.map": "/myapp/static/css/main.c6611a5f.css.map",
+    "main.091d7bfc.js.map": "/myapp/static/js/main.091d7bfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6611a5f.css",
+    "static/js/main.091d7bfc.js"
+  ]
+}
